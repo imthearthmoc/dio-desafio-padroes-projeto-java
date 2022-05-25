@@ -1,1 +1,2 @@
-# dio-desafio-padroes-projeto-java
+# Desafio Dio
+## Explorando Padrões de Projetos na Prática com Java.
